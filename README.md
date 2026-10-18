@@ -1,2 +1,9 @@
-# Uber_Az_DE_Project
-This end-to-end project builds a real-time ride-booking system in uber data. Key tasks include data ingestion via Azure Event Hubs, pipeline orchestration with Azure Data Factory, real-time processing using Databricks and PySpark, and transforming data into a Star Schema using Spark Declarative Pipelines and SCD logic.
+# **UBER REAL-TIME DATA ENGINEERING PROJECT**
+
+#### **Watch The Full Project On YouTube** - https://youtu.be/5KIbhHo6GJA?si=ktBADBZbM3IqRJ2s
+
+
+![Project Architecture](https://github.com/anshlambagit/Uber_Data_Engineer_Project/blob/main/architecture.png)
+
+
+
