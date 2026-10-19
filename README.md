@@ -592,8 +592,7 @@ Actual KPIs depend on the fields present and validated in the source schema.
 
 ### Learning references
 
-- **Project repository:** [Uber_Az_DE_Project](https://github.com/anujitdutta6-cmyk/Uber_Az_DE_Project)
-- **Tutorial reference:** [Uber End-To-End Data Engineering Project — Azure Databricks Streaming Project](https://www.youtube.com/watch?v=5KIbhHo6GJA)
+
 - **Azure Databricks — AUTO CDC / SCD concepts:** [Microsoft Learn](https://learn.microsoft.com/azure/databricks/delta-live-tables/cdc)
 - **Azure Databricks — pipeline concepts:** [Microsoft Learn](https://learn.microsoft.com/en-gb/azure/databricks/ldp/concepts/)
 - **Azure Databricks — data loading patterns:** [Microsoft Learn](https://learn.microsoft.com/en-gb/azure/databricks/ldp/load)
